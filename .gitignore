@@ -1,0 +1,4 @@
+dependencies/wgpu-native/lib/
+dependencies/glfw/linux-x86/
+zig-out/
+.zig-cache/
